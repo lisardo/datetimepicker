@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Test for DatePicker",
-    "repository": "https://github.com/abadi199/datepicker.git",
+    "repository": "https://github.com/lisardo/datepicker.git",
     "license": "Apache 2.0",
     "source-directories": [
         ".",
